@@ -1,4 +1,4 @@
 @Library('jenkins-shared-lib') _
 
-defaultPipeline()
+defaultPipeline(mm_channel:'ea_jenkins')
 
